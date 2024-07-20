@@ -1,11 +1,12 @@
 ---
+current_top_nav_item: home
 layout: src/_includes/base.php
 ---
 
-<section>
-    <div class="w3-auto w3-padding">
-        <h2>Welcome to Barshest113!</h2>
+<h2>Welcome to Barshest113!</h2>
 
-        <p>Hello, I am a gamer from Scotland. This is my website, and it is a work in progress. Thank you for visiting!</p>
-    </div>
-</section>
+<p>Hello, I am a gamer from Scotland. This is my website, and it is currently under construction. Thank you for visiting!</p>
+
+<p>&nbsp;</p>
+
+<p><img src="/assets/images/avatar.jpg" alt="Avatar Image" class="circle"></p>
